@@ -28,6 +28,7 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>com.sphereon.ssi.wallet</string>
+				<string>openid-credential-offer</string>
 			</array>
 		</dict>
 	</array>
